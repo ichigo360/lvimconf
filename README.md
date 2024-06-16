@@ -1,7 +1,3 @@
-***What's new?***
----------------------
-It's just lunarvim with extra steps.
-
 ***How to Install***
 ----------------------
 🞋 git clone the repo
