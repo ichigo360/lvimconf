@@ -1,6 +1,6 @@
 ***What's new?***
 ---------------------
-It's just lunarvim with extra steps nothing else.
+It's just lunarvim with extra steps.
 
 ***How to Install***
 ----------------------
